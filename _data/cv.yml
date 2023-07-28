@@ -27,14 +27,13 @@
       institution: iFLYTEK R&D Group, Hefei, China
       year: Mar.-Aug. 2023
       description:
-        - Develop multi-modal pretrained model for educational questions
-
-- title: Open Source Projects
-  type: time_table
+        - Develop a multi-modal pretrained model for educational questions
+  
   contents:
     - title: <a href="https://luna.bdaa.pro">LUNA</a>
       year: 2021-2023
-      description: A website for Intelligence Education.
+      description: LUNA is the inteLligent edUcational kNowledge grAph. I'm a developer in LUNA.
+
 
 - title: Honors and Awards
   type: time_table
