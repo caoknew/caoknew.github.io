@@ -13,7 +13,7 @@
   contents:
     - title: M.S. in Computer Science
       institution: University of Science and Technology of China (USTC), Hefei, China
-      year: 2021-2024(Expected)
+      year: 2021-2024
       description:
         - Advised by Prof. <a href="http://staff.ustc.edu.cn/~cheneh/">Enhong Chen</a>.
     - title: B.S in Computer Science
@@ -25,15 +25,16 @@
   contents:
     - title: Research Intern
       institution: iFLYTEK R&D Group, Hefei, China
-      year: March. - August. 2023
+      year: Mar.-Aug. 2023
       description:
-        - 
+        - Develop multi-modal pretrained model for educational questions
+
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://luna.bdaa.pro">LUNA</a>
+      year: 2021-2023
+      description: A website for Intelligence Education.
 
 - title: Honors and Awards
   type: time_table
